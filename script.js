@@ -8,6 +8,6 @@ function consoleGreetings() {
     console.log('#  It is said that not all who wander are lost.   |/     #');
     console.log('#  What is it that you are looking for here, my friend?  #');
     console.log('#                                                        #');
-    console.log('#     www.dark-magazin.de   |   info(a)dark-magazin.de   #');
+    console.log('#   www.dark-magazin.de  |  info(a)clementvanstaen.com   #');
     console.log('##########################################################');
 }
